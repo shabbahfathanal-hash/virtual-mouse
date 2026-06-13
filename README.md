@@ -14,7 +14,7 @@ Virtual Mouse adalah aplikasi berbasis Python yang memungkinkan pengguna mengont
 - Pause/Resume
 - Exit Gesture
 
-## download file
+## Download File
 download file virtual_mouse.py dan requirements.txt dan buka di VS code
 
 ## Install Library
